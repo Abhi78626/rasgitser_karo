@@ -1,0 +1,29 @@
+.services-sidebar {
+    border-right: 1px solid #ddd; 
+  }
+  
+  .services-sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .services-sidebar ul li {
+   background-color: #ddd;
+   margin-top: 30px;
+   padding: 13px;
+   border-top-left-radius: 15px;
+   border-bottom-left-radius: 15px;
+  }
+  
+  @media (min-width: 768px) {
+    .services-sidebar {
+      display: block;
+      width: 20%;
+    }
+  }
+  button{
+    background:none;
+    color: black;
+    padding: 2px;
+    
+  }
