@@ -6,32 +6,32 @@ const services = [
   {
     title: "Company Formation",
     description: "Build web-based solutions that enhance customer experience.",
-    icon: "⚙️", // Replace with an actual icon/image if needed
+    icon: "⚙️", 
   },
   {
     title: "Company Secretarial Services",
     description: "Make data-driven decisions and utilize technology to reach business goals.",
-    icon: "📊", // Replace with an actual icon/image if needed
+    icon: "📊", 
   },
   {
     title: "Virtual Office Address",
     description: "Foster customer relationships by effectively serving your market.",
-    icon: "🏢", // Replace with an actual icon/image if needed
+    icon: "🏢", 
   },
   {
     title: "Annual Compliance Services",
     description: "Turn your ideas into modern products with our design experts.",
-    icon: "📅", // Replace with an actual icon/image if needed
+    icon: "📅", 
   },
   {
     title: "Payroll Services",
     description: "Expand your business across the globe with minimal effort.",
-    icon: "🛒", // Replace with an actual icon/image if needed
+    icon: "🛒", 
   },
   {
     title: "Bookkeeping Services",
     description: "Steering user behaviors with creative design, data insights & technology.",
-    icon: "📒", // Replace with an actual icon/image if needed
+    icon: "📒",
   },
 ];
 

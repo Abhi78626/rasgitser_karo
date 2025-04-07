@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section className="about-section">
       <div className="about-content">
-        <h2>About <span>Register Karo</span></h2>
+        <h2>About <span>Tech Here</span></h2>
         <p>
           We have been using Intelegencia as our DevOps vendor for our field service 
           applications over the last couple of years and I’m extremely pleased with 
@@ -20,12 +20,7 @@ const About = () => {
         </p>
         <button className="learn-more-button">Learn More</button>
       </div>
-      <div className="about-image">
-        <img
-          src="your-image-url.jpg" // Replace with the actual image URL or import a local image
-          alt="Register Karo Team"
-        />
-      </div>
+    
     </section>
   );
 };
